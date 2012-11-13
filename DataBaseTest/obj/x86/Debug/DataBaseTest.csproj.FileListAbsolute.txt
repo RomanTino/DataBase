@@ -10,3 +10,15 @@ C:\Users\Роман\Documents\Visual Studio 2010\Projects\DataBaseTest\DataBaseT
 C:\Users\Роман\Documents\Visual Studio 2010\Projects\DataBaseTest\DataBaseTest\obj\x86\Debug\DataBaseTest.pdb
 C:\Users\Роман\Documents\Visual Studio 2010\Projects\DataBaseTest\DataBaseTest\obj\x86\Debug\DataBaseTest.Form1.resources
 C:\Users\Роман\Documents\Visual Studio 2010\Projects\DataBaseTest\DataBaseTest\bin\Debug\Database1 - Copy.sdf
+C:\Users\yurak_000\Documents\GitHub\DataBase\DataBaseTest\bin\Debug\DataBaseTest.exe.config
+C:\Users\yurak_000\Documents\GitHub\DataBase\DataBaseTest\obj\x86\Debug\DataBaseTest.exe
+C:\Users\yurak_000\Documents\GitHub\DataBase\DataBaseTest\obj\x86\Debug\DataBaseTest.pdb
+C:\Users\yurak_000\Documents\GitHub\DataBase\DataBaseTest\bin\Debug\Database1 - Copy.sdf
+C:\Users\yurak_000\Documents\GitHub\DataBase\DataBaseTest\bin\Debug\DataBaseTest.exe
+C:\Users\yurak_000\Documents\GitHub\DataBase\DataBaseTest\bin\Debug\DataBaseTest.pdb
+C:\Users\yurak_000\Documents\GitHub\DataBase\DataBaseTest\bin\Debug\EntityFramework.dll
+C:\Users\yurak_000\Documents\GitHub\DataBase\DataBaseTest\bin\Debug\EntityFramework.xml
+C:\Users\yurak_000\Documents\GitHub\DataBase\DataBaseTest\obj\x86\Debug\DataBaseTest.csprojResolveAssemblyReference.cache
+C:\Users\yurak_000\Documents\GitHub\DataBase\DataBaseTest\obj\x86\Debug\DataBaseTest.Form1.resources
+C:\Users\yurak_000\Documents\GitHub\DataBase\DataBaseTest\obj\x86\Debug\DataBaseTest.Properties.Resources.resources
+C:\Users\yurak_000\Documents\GitHub\DataBase\DataBaseTest\obj\x86\Debug\DataBaseTest.csproj.GenerateResource.Cache
